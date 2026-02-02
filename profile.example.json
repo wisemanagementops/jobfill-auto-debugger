@@ -1,0 +1,71 @@
+{
+  "_comment": "Your job application profile. Fill in all fields before running the auto-debugger.",
+  "_instructions": "Run 'npm run setup' to interactively fill this out, or edit directly.",
+  
+  "personal": {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "linkedIn": "",
+    "website": ""
+  },
+  
+  "address": {
+    "addressLine1": "",
+    "addressLine2": "",
+    "city": "",
+    "state": "",
+    "zipCode": "",
+    "country": "United States"
+  },
+  
+  "workAuthorization": {
+    "authorizedToWork": true,
+    "requiresSponsorship": false,
+    "visaStatus": "",
+    "citizenshipStatus": "US Citizen"
+  },
+  
+  "exportControl": {
+    "isUSPerson": true,
+    "canAccessExportControlled": true
+  },
+  
+  "demographics": {
+    "gender": "",
+    "race": "",
+    "ethnicity": "",
+    "veteranStatus": "",
+    "disabilityStatus": "",
+    "preferNotToSay": false
+  },
+  
+  "employment": {
+    "yearsOfExperience": "",
+    "currentEmployer": "",
+    "currentTitle": "",
+    "desiredSalary": "",
+    "availableStartDate": "",
+    "willingToRelocate": true
+  },
+  
+  "education": {
+    "highestDegree": "",
+    "university": "",
+    "graduationYear": "",
+    "major": "",
+    "gpa": ""
+  },
+  
+  "documents": {
+    "resumePath": "",
+    "coverLetterPath": ""
+  },
+  
+  "customAnswers": {
+    "_comment": "Add custom question-answer pairs here",
+    "How did you hear about us?": "",
+    "Why do you want to work here?": ""
+  }
+}

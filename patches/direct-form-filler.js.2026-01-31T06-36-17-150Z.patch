@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-01-31T06:36:17.150Z",
+  "file": "direct-form-filler.js",
+  "description": "Remove or comment out the import of ai-form-filler.js that's causing the missing dependency error",
+  "search": "import { AIFormFiller } from './ai-form-filler.js';",
+  "replace": "// Temporarily disabled due to missing zero-shot-classifier dependency\n// import { AIFormFiller } from './ai-form-filler.js';"
+}

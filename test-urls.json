@@ -1,0 +1,36 @@
+{
+  "description": "Job application URLs for testing JobFill Pro",
+  "lastUpdated": "2025-01-28",
+  "urls": [
+    {
+      "url": "https://performancemanager8.successfactors.com/careers?company=ametekinc",
+      "platform": "successfactors",
+      "company": "Ametek",
+      "priority": "high",
+      "notes": "SAP UI5 dropdowns, radio buttons"
+    },
+    {
+      "url": "https://careers.google.com/jobs/results/",
+      "platform": "custom",
+      "company": "Google",
+      "priority": "high",
+      "notes": "Custom React forms"
+    },
+    {
+      "url": "https://www.amazon.jobs/en/",
+      "platform": "custom",
+      "company": "Amazon",
+      "priority": "high",
+      "notes": "Custom job portal"
+    }
+  ],
+  "platformStats": {
+    "successfactors": { "tested": 0, "passed": 0 },
+    "workday": { "tested": 0, "passed": 0 },
+    "greenhouse": { "tested": 0, "passed": 0 },
+    "lever": { "tested": 0, "passed": 0 },
+    "icims": { "tested": 0, "passed": 0 },
+    "taleo": { "tested": 0, "passed": 0 },
+    "custom": { "tested": 0, "passed": 0 }
+  }
+}

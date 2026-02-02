@@ -1,0 +1,38 @@
+// Direct Form Filler - Wrapper for AI Form Filler
+// Uses transformer model to understand EVERY field
+
+// Temporarily disabled due to missing zero-shot-classifier dependency
+// import { AIFormFiller } from './ai-form-filler.js';
+
+export class DirectFormFiller {
+  constructor(page, profile) {
+    this.page = page;
+    this.profile = profile;
+    this.formFiller = new AIFormFiller(page, profile);
+    this.filled = 0;
+    this.failed = 0;
+    this.skipped = 0;
+  }
+
+  async fillAllFields() {
+    console.log('🔄 [DirectFiller] Starting AI-powered form fill...\n');
+    
+    // Use AI form filler (transformer-first approach)
+    const result = await this.formFiller.fillAllFields();
+    
+    this.filled = result.filled;
+    this.failed = result.failed;
+    this.skipped = result.skipped;
+
+    console.log(`\n📊 [DirectFiller] Final: ✅ filled=${this.filled}, ❌ failed=${this.failed}, ⏭️ skipped=${this.skipped}`);
+    
+    return {
+      filled: this.filled,
+      failed: this.failed,
+      skipped: this.skipped,
+      fieldLog: result.details || []
+    };
+  }
+}
+
+export default DirectFormFiller;
