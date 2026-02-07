@@ -1,0 +1,111 @@
+{
+    "personal": {
+        "firstName": "Bhanu",
+        "lastName": "Pandey",
+        "middleName": "",
+        "prefix": "",
+        "suffix": "",
+        "preferredName": "",
+        "email": "bhanupandeyti@gmail.com",
+        "phone": "(404) 259-8796",
+        "linkedIn": "",
+        "website": "",
+        "citizenship": "India",
+        "dateOfBirth": ""
+    },
+    "address": {
+        "line1": "28929 SW Ravenna Loop",
+        "line2": "Apt 304",
+        "city": "Wilsonville",
+        "state": "Oregon",
+        "county": "Clackamas",
+        "zipCode": "97070",
+        "country": "United States"
+    },
+    "workAuth": {
+        "authorizedToWork": true,
+        "requiresSponsorship": true,
+        "visaStatus": "H1B",
+        "involvesCPT_OPT": false,
+        "exportControlCompliant": true,
+        "isUSCitizenOrPR": false,
+        "hadJ1J2Visa": false
+    },
+    "eeo": {
+        "gender": "Male",
+        "race": "Asian",
+        "ethnicity": "",
+        "hispanicOrLatino": false,
+        "veteranStatus": "I am not a veteran",
+        "disabilityStatus": "No, I do not have a disability"
+    },
+    "employment": {
+        "desiredSalary": "",
+        "salaryFlexible": true,
+        "availableStartDate": "2 weeks",
+        "willingToRelocate": false,
+        "willingToTravel": true,
+        "yearsOfExperience": "7"
+    },
+    "documents": {
+        "resumePath": "C:/Users/14042/Downloads/BHANU.pdf",
+        "coverLetterPath": ""
+    },
+    "referral": {
+        "source": "LinkedIn",
+        "referrerName": "",
+        "referrerEmail": ""
+    },
+    "education": {
+        "degree": "Master's",
+        "fieldOfStudy": "Electrical Engineering",
+        "school": "Georgia Institute of Technology",
+        "graduationYear": "2018",
+        "graduationDate": "",
+        "gpa": "",
+        "startYear": "2016"
+    },
+    "skills": {
+        "technical": [
+            "Python",
+            "JavaScript",
+            "C++",
+            "MATLAB",
+            "Circuit Design",
+            "Analog Design",
+            "PCB Design",
+            "Signal Processing",
+            "Machine Learning",
+            "SPICE Simulation"
+        ],
+        "soft": [
+            "Team Leadership",
+            "Problem Solving",
+            "Project Management",
+            "Communication"
+        ]
+    },
+    "workHistory": [],
+    "licenses": [],
+    "additional": {
+        "over18": true,
+        "criminalHistory": false,
+        "previouslyApplied": false,
+        "previouslyEmployed": false,
+        "currentlyEmployed": true,
+        "canContactCurrentEmployer": false,
+        "agreeToTerms": true,
+        "hasRestrictiveAgreement": false,
+        "hasRelativeAtCompany": false,
+        "consentBackgroundCheck": true,
+        "consentDrugTest": true,
+        "isRestrictedCountryCitizen": false,
+        "excludedFromHealthcarePrograms": false,
+        "hasDisciplinaryAction": false
+    },
+    "meta": {
+        "createdAt": "2025-02-02T00:00:00.000Z",
+        "updatedAt": "2026-02-06T21:00:00.000Z",
+        "version": "1.8-lean"
+    }
+}
