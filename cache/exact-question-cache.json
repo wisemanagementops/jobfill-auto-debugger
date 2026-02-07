@@ -1,0 +1,668 @@
+{
+  "are authorized in legally states the to united work you": {
+    "field_type": "work_authorization",
+    "original_text": "Are you legally authorized to work in the United States?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "any are authorized currently employer for in states the to united work you": {
+    "field_type": "work_authorization",
+    "original_text": "Are you currently authorized to work in the United States for any employer?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "are authorized in the to us work you": {
+    "field_type": "work_authorization",
+    "original_text": "Are you authorized to work in the US?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a and are authorized basis fulltime in indefinite on states the to united work you": {
+    "field_type": "work_authorization_indefinite",
+    "original_text": "Are you authorized to work in the United States on a fulltime and indefinite basis?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a an and and are asylees authorized authorized basis basis citizens full in in include indefinite indefinite lawful on on permanent persons refugees residents states the the time to to united us us work work you": {
+    "field_type": "work_authorization_indefinite",
+    "original_text": "Are you authorized to work in the United States on a full time and indefinite basis? Persons authorized to work in the U.S. on an indefinite basis include U.S. citizens, lawful permanent residents, asylees and refugees.",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "1 1324ba3 2 3 8 any are card citizen following green of of or permanent person protected resident states the the under united us usc you": {
+    "field_type": "citizenship_status",
+    "original_text": "Are you any of the following 1. US Citizen 2. Permanent resident of the United States (Green Card) or 3. Protected person under 8 USC 1324b(a)(3)",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a are citizen or permanent resident us you": {
+    "field_type": "citizenship_status",
+    "original_text": "Are you a US Citizen or Permanent Resident?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a are citizen national of or states the united you": {
+    "field_type": "citizenship_status",
+    "original_text": "Are you a citizen or national of the United States?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a another are besides country of permanent resident the us you": {
+    "field_type": "foreign_permanent_resident",
+    "original_text": "Are you a permanent resident of another country besides the US?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "employment for future in now or require sponsorship status the visa will you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment visa status?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "authorization do for future immigration in now or require sponsorship the will work you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Do you now or will you in the future require immigration sponsorship for work authorization?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "future in now or require sponsorship the visa will you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you require visa sponsorship now or in the future?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "do or require sponsorship will you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Do you or will you require sponsorship?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "18 age are at least of years you": {
+    "field_type": "age_verification",
+    "original_text": "Are you at least 18 years of age?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "18 age are of older or years you": {
+    "field_type": "age_verification",
+    "original_text": "Are you 18 years of age or older?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "18 age are of over the you": {
+    "field_type": "age_verification",
+    "original_text": "Are you over the age of 18?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "18 are at can least old proof provide that years you you": {
+    "field_type": "age_verification",
+    "original_text": "Can you provide proof that you are at least 18 years old?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "any at company currently do employed family have members or relatives this you": {
+    "field_type": "relative_at_company",
+    "original_text": "Do you have any relatives or family members currently employed at this company?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "anyone are currently employed here related to you": {
+    "field_type": "relative_at_company",
+    "original_text": "Are you related to anyone currently employed here?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a a current do employee have is relative who you": {
+    "field_type": "relative_at_company",
+    "original_text": "Do you have a relative who is a current employee?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "been by company employed have previously this you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you previously been employed by this company?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "before company ever for have this worked you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever worked for this company before?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a are employee former you": {
+    "field_type": "previously_employed",
+    "original_text": "Are you a former employee?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "agreement any are covenant noncompete nonsolicitation or other restrictive subject to you": {
+    "field_type": "restrictive_agreement",
+    "original_text": "Are you subject to any non-compete, non-solicitation, or other restrictive covenant agreement?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a agreement are bound by covenant currently noncompete or restrictive you": {
+    "field_type": "restrictive_agreement",
+    "original_text": "Are you currently bound by a non-compete agreement or restrictive covenant?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "ability affect any any commitments do entity have might or other perform person that to to you your": {
+    "field_type": "other_commitments",
+    "original_text": "Do you have any commitments to any other person or entity that might affect your ability to perform?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "ability any are commitments could fulfill limit other role that there this to your": {
+    "field_type": "other_commitments",
+    "original_text": "Are there any other commitments that could limit your ability to fulfill this role?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "artificial consent do in intelligence of process recruitment the the to tools use you": {
+    "field_type": "ai_recruitment_consent",
+    "original_text": "Do you consent to the use of artificial intelligence tools in the recruitment process?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "agree ai do hiring in of process the the to use you": {
+    "field_type": "ai_recruitment_consent",
+    "original_text": "Do you agree to the use of AI in the hiring process?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "agree and conditions do terms the to you": {
+    "field_type": "terms_agreement",
+    "original_text": "Do you agree to the terms and conditions?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "agree and i of policy privacy terms the to use": {
+    "field_type": "terms_agreement",
+    "original_text": "I agree to the privacy policy and terms of use",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "be considered for future job like opportunities to would you": {
+    "field_type": "future_opportunities_consent",
+    "original_text": "Would you like to be considered for future job opportunities?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a a are citizen country d group in national of or you": {
+    "field_type": "group_d_country_citizen",
+    "original_text": "Are you a citizen or national of a country in Group D?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a a are citizen country national of or restricted you": {
+    "field_type": "restricted_country_citizen",
+    "original_text": "Are you a citizen or national of a restricted country?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a ever exchange have held if j1 j2 or visa visitor yes you": {
+    "field_type": "j1_j2_visa_history",
+    "original_text": "If Yes, have you ever held a J-1 or J-2 exchange visitor visa?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a ever exchange have held j1 j2 or visa visitor you": {
+    "field_type": "j1_j2_visa_history",
+    "original_text": "Have you ever held a J-1 or J-2 exchange visitor visa?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a been ever have j1 j2 on or visa you": {
+    "field_type": "j1_j2_visa_history",
+    "original_text": "Have you ever been on a J-1 or J-2 visa?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a and are authorized basis current fulltime if in indefinite not on please provide states status the to united work you your": {
+    "field_type": "current_visa_status",
+    "original_text": "If you are not authorized to work in the United States on a fulltime and indefinite basis, please provide your current status",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "current immigration or please provide status visa your": {
+    "field_type": "current_visa_status",
+    "original_text": "Please provide your current immigration or visa status",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "authorization current is or status visa what work your": {
+    "field_type": "current_visa_status",
+    "original_text": "What is your current visa or work authorization status?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "current please provide status your": {
+    "field_type": "current_visa_status",
+    "original_text": "Please provide your current status",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "add citizenship citizenship countries country dual if of of or please your": {
+    "field_type": "citizenship_country_text",
+    "original_text": "Please add your Country of Citizenship or Countries of Citizenship if dual",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "citizenship country is of what your": {
+    "field_type": "citizenship_country_text",
+    "original_text": "What is your country of citizenship?",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "citizenship country of": {
+    "field_type": "citizenship_country_text",
+    "original_text": "Country of citizenship",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "citizenship countries country list of or please your": {
+    "field_type": "citizenship_country_text",
+    "original_text": "Please list your country or countries of citizenship",
+    "source": "seed",
+    "added_at": "2026-02-05T18:43:48.983Z"
+  },
+  "a a analog are as been by capacity contracttemporary coopintern devices employed employee fulltime have in inc integrated maxim now or or or or previously regular you you": {
+    "field_type": "previously_employed",
+    "original_text": "Are you now or have you previously been employed by Analog Devices Inc. or Maxim Integrated as a full-time regular employee or in a contract/temporary or coop-intern capacity?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:43:54.537Z"
+  },
+  "1 1324ba3 2 3 8 and any are asylees but card certain citizen following green including limited not of of or permanent person protected refugees resident restrictions states the the to under united us usc with you": {
+    "field_type": "citizenship_status",
+    "original_text": "Are you any of the following 1. US Citizen 2. Permanent resident of the United States (Green Card) or 3. Protected person under 8 USC 1324b(a)(3) (including but not limited to refugees and asylees with certain restrictions)?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:15.558Z"
+  },
+  "a among an an and and and are are asylees authorization authorized authorized authorized basis basis basis be card citizens day f1 first fulltime green h1b4 hired holders identity if in in in include include indefinite indefinite indefinite j12 l12 lawful nonimmigrants not of of on on on on others permanent persons persons present proof refugees required residents states the the the to to to to to united us us us will work work work work work you you you your your": {
+    "field_type": "work_authorization_indefinite",
+    "original_text": "Are you authorized to work in the United States on a fulltime and indefinite basis? (Persons authorized to work in the U.S. on an indefinite basis include U.S. citizens, lawful permanent residents (“green card” holders), asylees and refugees. Persons not authorized to work in the U.S. on an indefinite basis include F-1, J-1/2, H-1B/4, L-1/2 nonimmigrants, among others.) If you are hired, you will be required to present proof of your identity and authorization to work on your first day of work.*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:16.216Z"
+  },
+  "a analog analog be by continue devices devices either for for for future in need now or or sponsored the to to to visa will work work work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you need to be sponsored for a work visa by Analog Devices – either now or in the future – to work for (or continue to work for) Analog Devices?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:16.994Z"
+  },
+  "a analog analog be by continue devices devicesselect either for for for future in need now one or or sponsored the to to to visa will work work work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you need to be sponsored for a work visa by Analog Devices – either now or in the future – to work for (or continue to work for) Analog Devices?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:20.199Z"
+  },
+  "a addressing adi analog at currently devices do employment has have of policy relatives relatives the working you": {
+    "field_type": "relative_at_company",
+    "original_text": "* ADI has a policy addressing the employment of relatives. Do you currently have relatives working at Analog Devices?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:20.694Z"
+  },
+  "a addressing adi analog at currently devicesselect do employment has have of one policy relatives relatives the working you": {
+    "field_type": "relative_at_company",
+    "original_text": "* ADI has a policy addressing the employment of relatives. Do you currently have relatives working at Analog Devices?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:21.522Z"
+  },
+  "a actions after agreement agreements agreements agreements and any are bound by clients company competitornonsolicitation current employees employer employer expiresexamplesnoncompete for former from from from if it leaving limit of or or prevent previous restrict share soliciting specific that the their type when which which with working yes you you you your your your": {
+    "field_type": "restrictive_agreement",
+    "original_text": "* Are you bound by any agreements with your current or previous employer that limit your actions after leaving their company? If yes, share the specific type of agreement and when it expires.Examples:Non-compete agreements, which prevent you from working for a competitorNon-solicitation agreements, which restrict you from soliciting clients or employees from your former employer.*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:24.037Z"
+  },
+  "a a about adi adi ai ai ai aligns an artificial assess by candidate candidate candidate candidates choose consent data decision decisions do efficient evaluate every for have how human inform information intelligence intervention involves is leads make may not of or process processed recruitment requirements review right role role select selecting status support that the the the these this to to to to to to tools tools tools tools use use using whether with yes you you your your your": {
+    "field_type": "ai_recruitment_consent",
+    "original_text": "To support an efficient recruitment process, ADI may use artificial intelligence (AI) tools to assess how your candidate information aligns with the role requirements. These tools do not make decisions about a candidate’s status — every decision that leads ADI to select a candidate for this role involves human review or intervention. You have the right to choose whether your data is processed using AI tools: By selecting “Yes,” you consent to the use of AI tools to evaluate your candidate inform",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:24.572Z"
+  },
+  "a about additional adi affect ai and and and and application application be by by by compare consent consent consider contact contacted current data do for for for found future if information is is job job like match may may no not of of openings openings opportunities other our our purpose recruiters recruiters relevant requirements roles selecting selecting that the the these these this those to to to to tools use using voluntary will would yes you you you you your your your your": {
+    "field_type": "ai_recruitment_consent",
+    "original_text": "ADI would like to consider you for additional and future job openings using AI tools that may compare your application and other relevant information to the requirements of those job openings. If a match is found, our recruiters may contact you about these opportunities.  Your consent is voluntary and will not affect your current application.  By selecting \"Yes,\" you consent to the use of your data for this purpose and to be contacted by our recruiters for these roles.  By selecting \"No,\" you do",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:49:25.479Z"
+  },
+  "a any are citizen countries cuba iran korea north of of one or syria these you": {
+    "field_type": "restricted_country_citizen",
+    "original_text": "Are you a citizen of any one of these countries: Cuba, Iran, North Korea, or Syria?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:50:20.306Z"
+  },
+  "a any are armenia azerbaijan belarus burma cambodia china citizen countries d donetsk following georgia group hong iraq kazakhstan kherson kong kyrgyzstan laos libya luhansk macau moldova mongolia myanmar nicaragua occupied of of prc regions ru russia tajikistan the turkmenistan ukraine uzbekistan venezuela vietnam you zaporizhzhia": {
+    "field_type": "group_d_country_citizen",
+    "original_text": "Are you a citizen of any of the following countries: Group D (Armenia, Azerbaijan, Belarus, Burma (Myanmar), Cambodia, China (PRC), Georgia, Hong Kong, Iraq, Kazakhstan, Kyrgyzstan, Laos, Libya, Macau, Moldova, Mongolia, Nicaragua, Russia, Tajikistan, Turkmenistan, Ukraine (RU Occupied regions, Donetsk, Kherson, Luhansk, Zaporizhzhia), Uzbekistan, Venezuela, Vietnam)*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T18:50:49.115Z"
+  },
+  "a by currently do employed have one or previously relative upsselect you": {
+    "field_type": "relative_at_company",
+    "original_text": "Do you have a relative currently or previously employed by UPS?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T19:28:21.964Z"
+  },
+  "a any been been by by contractor directly do employed employed ever for have have if its not of or please previously select subsidiaries ups ups yes you you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever been directly employed by UPS or any of its subsidiaries? (Please do not select 'Yes' if you have previously been employed by a contractor for UPS)*",
+    "source": "approved",
+    "added_at": "2026-02-05T23:25:06.747Z"
+  },
+  "an any case case employ employmentbased example for future h1b immigration immigration in in now or or other require sponsor states the the to to united ups will you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require UPS to sponsor an immigration case to employ you in the United States? – For example H1B or any other employment-based immigration case.*",
+    "source": "approved",
+    "added_at": "2026-02-05T23:25:06.748Z"
+  },
+  "a are current employee ups you": {
+    "field_type": "current_employee",
+    "original_text": "Are you a current UPS employee?*",
+    "source": "approved",
+    "added_at": "2026-02-05T23:25:06.750Z"
+  },
+  "18 age are currently of older or years you": {
+    "field_type": "age_verification",
+    "original_text": "Are you currently 18 years of age or older?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-05T23:29:01.115Z"
+  },
+  "activeformer an apply are associate contractor currently depot do does fellow for have hd home if military not or or previously supply the this worked you you you": {
+    "field_type": "previously_employed",
+    "original_text": "Do you currently, or have you previously, worked for The Home Depot? This does not apply if you are an active/former contractor, HD Supply associate or Military Fellow.*",
+    "source": "approved",
+    "added_at": "2026-02-06T00:42:54.865Z"
+  },
+  "annual compensation desired total": {
+    "field_type": "desired_salary",
+    "original_text": "Desired Total Annual Compensation",
+    "source": "approved",
+    "added_at": "2026-02-06T00:42:54.866Z"
+  },
+  "attain by depot eligibility employment future home in maintain now or or require sponsorship the the to will you your": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship by the Home Depot to attain or maintain your employment eligibility?*",
+    "source": "approved",
+    "added_at": "2026-02-06T00:42:54.867Z"
+  },
+  "a about affiliates and and and and and andor application apply appointments automated behalf callstexts career consent data delivered depot device do employment for frequency from future help home inc information its its may message messages miss more my never new next notifications number of on opportunities opportunity optout or parents phone prerecorded rates receive receive sign sms steps stop straight subsidiaries text text text the to to to to to up usa varies voice you your": {
+    "field_type": "future_opportunities_consent",
+    "original_text": "Never miss a new career opportunity! Sign up to receive SMS text notifications of next steps and appointments delivered straight to your device. Frequency Varies. Message and data rates may apply. For more information text HELP. To opt-out text STOP. Do you consent to receive automated calls/texts and/or pre-recorded voice messages from Home Depot U.S.A. Inc., and its parents affiliates and subsidiaries and on its behalf about my application or future employment opportunities to the phone number",
+    "source": "approved",
+    "added_at": "2026-02-06T00:42:54.869Z"
+  },
+  "amount based description directly do experience have job of on relevant required the the work you": {
+    "field_type": "meets_job_requirements",
+    "original_text": "Based on the job description, do you have the required amount of directly relevant work experience?*",
+    "source": "approved",
+    "added_at": "2026-02-06T00:42:54.870Z"
+  },
+  "attain by depot eligibility employment future home in maintain now one or or require select sponsorship the the to will you your": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship by the Home Depot to attain or maintain your employment eligibility?* Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T00:46:37.948Z"
+  },
+  "amount based description directly do experienceselect have job of on one relevant required the the work you": {
+    "field_type": "meets_job_requirements",
+    "original_text": "Based on the job description, do you have the required amount of directly relevant work experience?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T00:46:40.018Z"
+  },
+  "18 are older or years you": {
+    "field_type": "age_verification",
+    "original_text": "Are you 18 years or older?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T01:17:40.079Z"
+  },
+  "continue country do future in in now or require sponsorship the this to to work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Do you now or in the future require sponsorship to continue to work in this country?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T01:17:46.553Z"
+  },
+  "a additional are been below by concentrix currently employed ever have if or or please questions respond subsidiary the to yes you you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever been, or are you currently, employed by Concentrix or a subsidiary? If yes, please respond to the additional questions below.*",
+    "source": "approved",
+    "added_at": "2026-02-06T01:55:53.829Z"
+  },
+  "is name preferred what your": {
+    "field_type": "preferred_name",
+    "original_text": "What is your preferred name?",
+    "source": "approved",
+    "added_at": "2026-02-06T01:55:53.830Z"
+  },
+  "and applicable as at concentrix did email employee i id if if know name not not of person please please provide referred select selected someone source source the the the this to type us who you you you your": {
+    "field_type": "referral_source",
+    "original_text": "If you selected the source â€œI know someone at Concentrixâ€Â  please provide the name, employee ID and email of the person who referred you to us!Â  If you did not select this as your source, please type not applicable.",
+    "source": "approved",
+    "added_at": "2026-02-06T01:55:53.833Z"
+  },
+  "amount answer days in is notice of period please the what your": {
+    "field_type": "notice_period",
+    "original_text": "What is your notice period? Please answer in the amount of days.",
+    "source": "approved",
+    "added_at": "2026-02-06T01:55:53.835Z"
+  },
+  "are authorized employment for in legally states the united you": {
+    "field_type": "work_authorization",
+    "original_text": "Are you legally authorized for employment in the United States?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T06:19:43.002Z"
+  },
+  "an as authorization authorization employment employmentbased for for future h1b in in l now o opt or or other require sponsorship sponsorship states stem such the the tn to united will work work work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment work authorization to work in the United States, such as sponsorship for an H-1B, TN, O, L, STEM OPT, or other employment-based work authorization?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T06:19:43.552Z"
+  },
+  "an as authorization employment for for future h1b in in l now o opt or require sponsorship sponsorship states stem such the the tn to united will work work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment work authorization to work in the United States, such as sponsorship for an H-1B, TN, O, L, STEM OPT,",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T06:19:44.427Z"
+  },
+  "a as for have member previously target team worked you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you previously worked for Target as a team member?*",
+    "source": "approved",
+    "added_at": "2026-02-06T16:51:46.980Z"
+  },
+  "a agreement agreementselect an any as confidentiality current do employer employment have noncompete nonsolicitation one or or or past restrictions such with you your": {
+    "field_type": "restrictive_agreement",
+    "original_text": "Do you have an employment agreement or any restrictions with your current or past employer, such as a non-compete, non-solicitation, or confidentiality agreement?*Select One",
+    "source": "approved",
+    "added_at": "2026-02-06T16:51:46.981Z"
+  },
+  "about and and any application application apply are at by conditions contact data employment for frequency future granting help httpscorporatetargetcomcareersworkdaytermsandconditions httpstgtbizcareerprivacypolicy info information job may message message message mobile more number on on opportunities opt out permission phone policy privacy provided rates reply reply selecting stop target terms text the the time to to varies via with yes you you your your": {
+    "field_type": "future_opportunities_consent",
+    "original_text": "By selecting YES you are granting Target permission to contact you via text message on the mobile phone number provided on your application with the information about your job application and future employment opportunities. Message & data rates may apply. Message frequency varies. Reply STOP to opt out at any time. Reply HELP for more info. Terms and Conditions: https://corporate.target.com/careers/workday-terms-and-conditions Privacy policy: https://tgt.biz/careerprivacypolicy*",
+    "source": "approved",
+    "added_at": "2026-02-06T16:51:46.983Z"
+  },
+  "a agreement agreement an any as confidentiality current do employer employment have noncompete nonsolicitation or or or past restrictions such with you your": {
+    "field_type": "restrictive_agreement",
+    "original_text": "Do you have an employment agreement or any restrictions with your current or past employer, such as a non-compete, non-solicitation, or confidentiality agreement?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T16:54:53.477Z"
+  },
+  "based company currently do eg employment for for h1b in or order require similar sponsorship status this to visa work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Do you currently require sponsorship for employment based visa status (e.g., H-1B or similar) in order to work for this company?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T18:43:28.257Z"
+  },
+  "based companyselect currently do eg employment for for h1b in one or order require similar sponsorship status this to visa work you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Do you currently require sponsorship for employment based visa status (e.g., H-1B or similar) in order to work for this company?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T18:43:29.166Z"
+  },
+  "able all and and are be can complete compliance document eligibility eligibility employment federal form hire hired hired identity if in in in law legally persons proof provide required required states states that the the the to to to to united united upon verify will with work work you you": {
+    "field_type": "work_authorization",
+    "original_text": "If hired, can you provide proof that you are legally able to work in the United States? In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility document form upon hire.*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T18:43:29.801Z"
+  },
+  "a account accounts address address an associated avoid eg email email family is shared that using with": {
+    "field_type": "email",
+    "original_text": "Email Address - Avoid using an email address that is associated with a shared account (e.g. family accounts)",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.314Z"
+  },
+  "aetna affiliates and any been by caremark coram cordavis cvs cvs cvs employed ever have health health including its minuteclinic oakstreet of omnicare or or or pharmacyretail rubiconmd signifyhealth stores subsidiaries you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever been employed by CVS Health or any of its affiliates or subsidiaries, including CVS Caremark, CVS Pharmacy/Retail Stores, MinuteClinic, Coram, Omnicare, Aetna, SignifyHealth, Cordavis and Oakstreet Health or RubiconMD?*",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.317Z"
+  },
+  "aetna any at currently cvs cvs do health health health minuteclinic oak or pharmacy signify street subsidiaries work you": {
+    "field_type": "current_employee",
+    "original_text": "Do you currently work at CVS Health, CVS Pharmacy, Aetna, MinuteClinic, Oak Street Health, Signify Health, or any subsidiaries?*",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.319Z"
+  },
+  "aetna affiliates any been by caremark coram cvs cvs cvs employed ever have health health health including its minuteclinic oak of omnicare or or or pharmacyretail signify stores street subsidiaries you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever been employed by CVS Health or any of its affiliates or subsidiaries, including CVS Caremark, CVS Pharmacy/Retail Stores, MinuteClinic, Coram, Omnicare, Signify Health, Oak Street Health or Aetna?*",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.320Z"
+  },
+  "any are be been care currently debarred eg ever ever excluded federal from government government has have health in ineligible medicaid medicare or or or or other otherwise participation procurement program programs proposed state suspended that the you you you": {
+    "field_type": "healthcare_exclusion",
+    "original_text": "Are you currently, have you ever been, or has the government ever proposed that you be excluded, debarred, suspended or otherwise ineligible from participation in any federal or state health care program or other government procurement programs (e.g., Medicare, Medicaid)?*",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.321Z"
+  },
+  "action and anticipate any but certification credentials disciplinary do ever had have including license limited not on or or probation professional receiving reprimands revocation suspension taken to you you your": {
+    "field_type": "disciplinary_action",
+    "original_text": "Have you ever had, or do you anticipate receiving, any disciplinary action taken on your professional license, certification, or credentials? (Including, but not limited to reprimands, probation, revocation, and suspension).*",
+    "source": "approved",
+    "added_at": "2026-02-06T23:32:56.322Z"
+  },
+  "applying are country employment for future in in is jurisdiction located now or or position require sponsorship the the the to where which will you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you, now or in the future, require sponsorship for employment in the country or jurisdiction where the position to which you are applying is located?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T23:53:17.223Z"
+  },
+  "applying are country employment for future in in is jurisdiction locatedyes now or or position require sponsorship the the the to where which will you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you, now or in the future, require sponsorship for employment in the country or jurisdiction where the position to which you are applying is located?*Yes",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-06T23:54:06.806Z"
+  },
+  "a agency an an any as as banamex barney been brothers but by citi citibank citicorp companies consultant contractor employed employee ever have including its limited not of or or or or or predecessor salomon smith temporary to via whether worker you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you ever been employed by Citi or any of its predecessor companies (including but not limited to Citibank, Citicorp, Banamex, Salomon Brothers, or Smith Barney) whether as an employee or via an agency or as a contractor, temporary worker or consultant?*",
+    "source": "approved",
+    "added_at": "2026-02-07T01:38:38.661Z"
+  },
+  "applying are are authorized country in is jurisdiction legally located or position the the to to where which work you you": {
+    "field_type": "work_authorization",
+    "original_text": "Are you legally authorized to work in the country or jurisdiction where the position to which you are applying is located?*",
+    "source": "approved",
+    "added_at": "2026-02-07T01:38:38.662Z"
+  },
+  "1 2 3 41 also and any any are aunts aunts children citis civil cousins covered do domestic first grandchildren grandchildren grandparents great great great great great greatgrandparents guardians have in in include inlaws management mean nephews nephews nieces nieces of or or other parents part partners partners persons relationships relationships relatives relatives relatives same senior siblings spouses steprelatives that these uncles uncles union wards you": {
+    "field_type": "relative_at_company",
+    "original_text": "Do you have any relatives (1) or persons in any other Covered Relationships (2) that are part of Citi's (3) Senior Management (4)?(1) Relatives mean spouses, domestic partners, civil union partners, parents, grandparents, great-grandparents, children, grandchildren, great grandchildren, siblings, aunts, great aunts, uncles, great uncles, nieces, great nieces, nephews, great nephews, first cousins, wards or guardians. Relatives also include in-laws and step-relatives in these same relationships.(",
+    "source": "approved",
+    "added_at": "2026-02-07T01:38:38.663Z"
+  },
+  "all apply raceethnicity select that": {
+    "field_type": "race_ethnicity",
+    "original_text": "Race/Ethnicity (select all that apply)",
+    "source": "approved",
+    "added_at": "2026-02-07T01:38:38.664Z"
+  },
+  "18 age are of olderselect one or years you": {
+    "field_type": "age_verification",
+    "original_text": "Are you 18 years of age or older?*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-07T01:42:23.045Z"
+  },
+  "answer applying are completing country currently curricular e3 employment f1 for future h1b in in includes infor now of on one optional or or or persons practical require should sponsorship sponsorship the the the this tn to to training us visa visas visas will work work yesselect you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment visa to work in the country you are applying to work in?For the US, this includes sponsorship of H-1B, TN, or E-3 visas. Persons currently on F-1 visas completing curricular or optional practical training should answer yes.*Select One",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-07T01:42:23.551Z"
+  },
+  "applying are country employment for future h1b in in includes infor now of or or require sponsorship sponsorship the the the this tn to to us visa will work work you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment visa to work in the country you are applying to work in?For the US, this includes sponsorship of H-1B, TN, or",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-07T01:44:31.129Z"
+  },
+  "answer applying are completing country currently curricular e3 employment f1 for future h1b in in includes infor now of on optional or or or persons practical require should sponsorship sponsorship the the the this tn to to training us visa visas visas will work work yes you you": {
+    "field_type": "visa_sponsorship",
+    "original_text": "Will you now or in the future require sponsorship for employment visa to work in the country you are applying to work in?For the US, this includes sponsorship of H-1B, TN, or E-3 visas. Persons currently on F-1 visas completing curricular or optional practical training should answer yes.*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-07T03:03:08.384Z"
+  },
+  "agreements any applying are do for for from have job noncompetenonsolicitation or or other performing prevents restricts that the which you you you": {
+    "field_type": "restrictive_agreement",
+    "original_text": "Do you have any non-compete/non-solicitation or other agreements that prevents or restricts you from performing the job for which you are applying for?*",
+    "source": "haiku_confirmed",
+    "added_at": "2026-02-07T03:03:10.894Z"
+  },
+  "a as been by contingent employed engaged fargo have or previously resource wells you": {
+    "field_type": "previously_employed",
+    "original_text": "Have you previously been employed by Wells Fargo or engaged as a contingent resource?*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.470Z"
+  },
+  "a are current employee fargo former or wells you": {
+    "field_type": "current_employee",
+    "original_text": "Are you a current or former Wells Fargo employee?*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.477Z"
+  },
+  "a administrative administrative administrative agency agency an an and any any aspect authorized been body by by conduct developing directives disciplined estate ever financial government have implement industries industry insurance involving is legislative licensed more of of or or or or order other practices precise professionan real relating rules securities services subject technical the the to to you": {
+    "field_type": "disciplinary_action",
+    "original_text": "Have you ever been disciplined by an administrative agency or the subject of an administrative order relating to conduct or practices involving any aspect of the financial services, insurance, securities, or real estate industries or any other licensed industry profession?An Administrative agency is a government body authorized to implement legislative directives by developing more precise and technical rules.*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.481Z"
+  },
+  "a a a administrator an any any appointments as become client current current customer customer designation do example executor fargo fargo fiduciary fiduciary for guardian have intends involve know or or personal representative similar someone such that that to trustee wells wells you you": {
+    "field_type": "other_commitments",
+    "original_text": "Do you have any fiduciary appointments (such as an executor, personal representative, administrator, guardian, trustee, or any similar fiduciary designation) that involve a current Wells Fargo customer, or someone you know that intends to become a Wells Fargo customer (for example, a current client)?*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.484Z"
+  },
+  "a a a adopted and any are arrangement be biological board civil close close connection contact contingent do domestic employees family fargo financial have its marriage may members of of ongoing or or or or or other partnership personal personal regular relationship resources romantic some subsidiaries that union wells you you": {
+    "field_type": "relative_at_company",
+    "original_text": "Do you have a family relationship (biological, adopted, marriage, domestic partnership, civil union, or some other arrangement), or are you a close personal contact (a regular and ongoing close connection that may be personal, romantic, or financial) of any employees, contingent resources, or board members of Wells Fargo or its subsidiaries?*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.488Z"
+  },
+  "a asked been discharged discharges displacement due ever from have include involuntarily layoff not or or positionyour reorganizationyes resign response should to to you": {
+    "field_type": "disciplinary_action",
+    "original_text": "Have you ever been involuntarily discharged or asked to resign from a position?Your response should not include discharges due to layoff, displacement, or reorganization.*Yes",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.491Z"
+  },
+  "a a a a a activities alcohol are are but condition condition currently disabilities disability disability disabilitya disorder do drugs ever had have have have how if if include is know life limited limits major more not not of one or or or other person substance substantially such that to use using with you you you you your": {
+    "field_type": "disability_status",
+    "original_text": "How do you know if you have a disability?A disability is a condition that substantially limits one or more of your â€œmajor life activities.â€ If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:\n\nAlcohol or other substance use disorder (not currently using drugs",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.492Z"
+  },
+  "a a a a a activities alcoho are are but condition condition disabilities disability disability disabilitya do ever had have have have how if if include is know life limited limits major more not of one or or person substantially such that to with you you you you your": {
+    "field_type": "disability_status",
+    "original_text": "How do you know if you have a disability?A disability is a condition that substantially limits one or more of your â€œmajor life activities.â€ If you have or have ever had such a condition, you are a person with a disability. Disabilities include, but are not limited to:\n\nAlcoho",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.497Z"
+  },
+  "a asked been discharged discharges displacement due ever from have include involuntarily layoff not or or positionyour reorganization resign response should to to you": {
+    "field_type": "disciplinary_action",
+    "original_text": "Have you ever been involuntarily discharged or asked to resign from a position?Your response should not include discharges due to layoff, displacement, or reorganization.*",
+    "source": "approved",
+    "added_at": "2026-02-07T03:22:50.502Z"
+  }
+}
