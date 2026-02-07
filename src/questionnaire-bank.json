@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "description": "Known questionnaire questions mapped to field types. BGE embeddings match new questions against these. Grows automatically from Claude Haiku classifications.",
+  "questions": [
+    {
+      "text": "Are you legally authorized to work in the United States?",
+      "field_type": "work_authorization",
+      "source": "seed"
+    },
+    {
+      "text": "Are you currently authorized to work in the United States for any employer?",
+      "field_type": "work_authorization",
+      "source": "seed"
+    },
+    {
+      "text": "Are you authorized to work in the US?",
+      "field_type": "work_authorization",
+      "source": "seed"
+    },
+    {
+      "text": "Are you authorized to work in the United States on a fulltime and indefinite basis?",
+      "field_type": "work_authorization_indefinite",
+      "source": "seed"
+    },
+    {
+      "text": "Are you authorized to work in the United States on a full time and indefinite basis? Persons authorized to work in the U.S. on an indefinite basis include U.S. citizens, lawful permanent residents, asylees and refugees.",
+      "field_type": "work_authorization_indefinite",
+      "source": "seed"
+    },
+    {
+      "text": "Are you any of the following 1. US Citizen 2. Permanent resident of the United States (Green Card) or 3. Protected person under 8 USC 1324b(a)(3)",
+      "field_type": "citizenship_status",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a US Citizen or Permanent Resident?",
+      "field_type": "citizenship_status",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a citizen or national of the United States?",
+      "field_type": "citizenship_status",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a permanent resident of another country besides the US?",
+      "field_type": "foreign_permanent_resident",
+      "source": "seed"
+    },
+    {
+      "text": "Will you now or in the future require sponsorship for employment visa status?",
+      "field_type": "visa_sponsorship",
+      "source": "seed"
+    },
+    {
+      "text": "Do you now or will you in the future require immigration sponsorship for work authorization?",
+      "field_type": "visa_sponsorship",
+      "source": "seed"
+    },
+    {
+      "text": "Will you require visa sponsorship now or in the future?",
+      "field_type": "visa_sponsorship",
+      "source": "seed"
+    },
+    {
+      "text": "Do you or will you require sponsorship?",
+      "field_type": "visa_sponsorship",
+      "source": "seed"
+    },
+    {
+      "text": "Are you at least 18 years of age?",
+      "field_type": "age_verification",
+      "source": "seed"
+    },
+    {
+      "text": "Are you 18 years of age or older?",
+      "field_type": "age_verification",
+      "source": "seed"
+    },
+    {
+      "text": "Are you over the age of 18?",
+      "field_type": "age_verification",
+      "source": "seed"
+    },
+    {
+      "text": "Can you provide proof that you are at least 18 years old?",
+      "field_type": "age_verification",
+      "source": "seed"
+    },
+    {
+      "text": "Do you have any relatives or family members currently employed at this company?",
+      "field_type": "relative_at_company",
+      "source": "seed"
+    },
+    {
+      "text": "Are you related to anyone currently employed here?",
+      "field_type": "relative_at_company",
+      "source": "seed"
+    },
+    {
+      "text": "Do you have a relative who is a current employee?",
+      "field_type": "relative_at_company",
+      "source": "seed"
+    },
+    {
+      "text": "Have you previously been employed by this company?",
+      "field_type": "previously_employed",
+      "source": "seed"
+    },
+    {
+      "text": "Have you ever worked for this company before?",
+      "field_type": "previously_employed",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a former employee?",
+      "field_type": "previously_employed",
+      "source": "seed"
+    },
+    {
+      "text": "Are you subject to any non-compete, non-solicitation, or other restrictive covenant agreement?",
+      "field_type": "restrictive_agreement",
+      "source": "seed"
+    },
+    {
+      "text": "Are you currently bound by a non-compete agreement or restrictive covenant?",
+      "field_type": "restrictive_agreement",
+      "source": "seed"
+    },
+    {
+      "text": "Do you have any commitments to any other person or entity that might affect your ability to perform?",
+      "field_type": "other_commitments",
+      "source": "seed"
+    },
+    {
+      "text": "Are there any other commitments that could limit your ability to fulfill this role?",
+      "field_type": "other_commitments",
+      "source": "seed"
+    },
+    {
+      "text": "Do you consent to the use of artificial intelligence tools in the recruitment process?",
+      "field_type": "ai_recruitment_consent",
+      "source": "seed"
+    },
+    {
+      "text": "Do you agree to the use of AI in the hiring process?",
+      "field_type": "ai_recruitment_consent",
+      "source": "seed"
+    },
+    {
+      "text": "Do you agree to the terms and conditions?",
+      "field_type": "terms_agreement",
+      "source": "seed"
+    },
+    {
+      "text": "I agree to the privacy policy and terms of use",
+      "field_type": "terms_agreement",
+      "source": "seed"
+    },
+    {
+      "text": "Would you like to be considered for future job opportunities?",
+      "field_type": "future_opportunities_consent",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a citizen or national of a country in Group D?",
+      "field_type": "group_d_country_citizen",
+      "source": "seed"
+    },
+    {
+      "text": "Are you a citizen or national of a restricted country?",
+      "field_type": "restricted_country_citizen",
+      "source": "seed"
+    },
+    {
+      "text": "If Yes, have you ever held a J-1 or J-2 exchange visitor visa?",
+      "field_type": "j1_j2_visa_history",
+      "source": "seed"
+    },
+    {
+      "text": "Have you ever held a J-1 or J-2 exchange visitor visa?",
+      "field_type": "j1_j2_visa_history",
+      "source": "seed"
+    },
+    {
+      "text": "Have you ever been on a J-1 or J-2 visa?",
+      "field_type": "j1_j2_visa_history",
+      "source": "seed"
+    },
+    {
+      "text": "If you are not authorized to work in the United States on a fulltime and indefinite basis, please provide your current status",
+      "field_type": "current_visa_status",
+      "source": "seed"
+    },
+    {
+      "text": "Please provide your current immigration or visa status",
+      "field_type": "current_visa_status",
+      "source": "seed"
+    },
+    {
+      "text": "What is your current visa or work authorization status?",
+      "field_type": "current_visa_status",
+      "source": "seed"
+    },
+    {
+      "text": "Please provide your current status",
+      "field_type": "current_visa_status",
+      "source": "seed"
+    },
+    {
+      "text": "Please add your Country of Citizenship or Countries of Citizenship if dual",
+      "field_type": "citizenship_country_text",
+      "source": "seed"
+    },
+    {
+      "text": "What is your country of citizenship?",
+      "field_type": "citizenship_country_text",
+      "source": "seed"
+    },
+    {
+      "text": "Country of citizenship",
+      "field_type": "citizenship_country_text",
+      "source": "seed"
+    },
+    {
+      "text": "Please list your country or countries of citizenship",
+      "field_type": "citizenship_country_text",
+      "source": "seed"
+    }
+  ]
+}
